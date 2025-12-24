@@ -1,0 +1,2 @@
+Pesan dari file1.txt
+Pesan dari file2.txt
