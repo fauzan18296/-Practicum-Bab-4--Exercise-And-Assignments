@@ -4,4 +4,4 @@ with open("gabungan.txt", "w") as outfile:
                     with open(filename) as infile:
                               for letter in infile:
                                         outfile.write(letter)
-                                        print("File gabungan.txt telah berhasil di buat!!")
+          print("File gabungan.txt telah berhasil di buat!!")
